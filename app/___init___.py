@@ -1,0 +1,1 @@
+#core aplication package
